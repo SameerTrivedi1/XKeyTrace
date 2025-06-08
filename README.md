@@ -1,4 +1,4 @@
-# 📝 Project Description: XKeyTrace – A Keylogging Utility in Python
+#  XKeyTrace – A Keylogging Utility in Python
 XKeyTrace is a lightweight keylogging utility designed for educational and monitoring purposes. Developed in Python, this tool captures and logs keyboard activity in real-time, mapping both standard and special keys (like Enter, Tab, Shift, etc.) to a readable format. Logs are stored locally and can be automatically sent via email at scheduled intervals for remote review.
 
 Key Features:
