@@ -58,7 +58,7 @@ class Logger:
     #     keyboard.on_press(callback=self.getKeys)
     #     keyboard.wait()
 
-
+# execution starts here
 if __name__ == "__main__":
 
     print("[+] started....")
